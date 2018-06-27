@@ -1,0 +1,108 @@
+[
+          {
+            "id": 1,
+            "ImageName": "Funnyguy",
+            "ImageType": "Funny",
+            "Username": "Taruni",
+            "ImageAddress":"0c1YFmxb.jpg",
+            "Likes":"20"
+          },
+          {
+            "id": 2,
+            "ImageName": "Car",
+            "ImageType": "Meme",
+            "Username": "Sampath",
+            "ImageAddress":"1X7SR09b.jpg",
+            "Likes":"16"
+
+          },
+          {
+            "id": 3,
+            "ImageName": "Cute Cat",
+            "ImageType": "Others",
+            "Username": "Sameer",
+            "ImageAddress":"4F2SUHgb.jpg",
+            "Likes":"30"
+
+          },
+          {
+            "id": 1,
+            "ImageName": "Funnyguy",
+            "ImageType": "Funny",
+            "Username": "Taruni",
+            "ImageAddress":"0c1YFmxb.jpg",
+            "Likes":"50"
+          },
+          {
+            "id": 2,
+            "ImageName": "Car",
+            "ImageType": "Meme",
+            "Username": "Sampath",
+            "ImageAddress":"1X7SR09b.jpg",
+            "Likes":"21"
+
+          },
+          {
+            "id": 3,
+            "ImageName": "Cute Cat",
+            "ImageType": "Others",
+            "Username": "Sameer",
+            "ImageAddress":"4F2SUHgb.jpg",
+            "Likes":"45"
+
+          },
+          {
+            "id": 1,
+            "ImageName": "Funnyguy",
+            "ImageType": "Funny",
+            "Username": "Taruni",
+            "ImageAddress":"0c1YFmxb.jpg",
+            "Likes":"81"
+          },
+          {
+            "id": 2,
+            "ImageName": "Car",
+            "ImageType": "Meme",
+            "Username": "Sampath",
+            "ImageAddress":"1X7SR09b.jpg",
+            "Likes":"65"
+
+          },
+          {
+            "id": 3,
+            "ImageName": "Cute Cat",
+            "ImageType": "Others",
+            "Username": "Sameer",
+            "ImageAddress":"4F2SUHgb.jpg",
+            "Likes":"43"
+
+          },
+          {
+            "id": 1,
+            "ImageName": "Funnyguy",
+            "ImageType": "Funny",
+            "Username": "Taruni",
+            "ImageAddress":"0c1YFmxb.jpg",
+            "Likes":"28"
+          },
+          {
+            "id": 2,
+            "ImageName": "Car",
+            "ImageType": "Meme",
+            "Username": "Sampath",
+            "ImageAddress":"1X7SR09b.jpg",
+            "Likes":"6"
+
+          },
+          {
+            "id": 3,
+            "ImageName": "New Zealand in nutshell",
+            "ImageType": "Others",
+            "Username": "Sameer",
+            "ImageAddress":"4F2SUHgb.jpg",
+            "Likes":"49"
+
+          }
+
+        ]
+        
